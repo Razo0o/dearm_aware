@@ -1,0 +1,51 @@
+com.myDearmAware.DearmAware.app-lifecycle-runtime-2.6.1-0 C:\Users\razan\.gradle\caches\transforms-3\0ff87b60b35da1b4ec2b9362bbc306b9\transformed\lifecycle-runtime-2.6.1\res
+com.myDearmAware.DearmAware.app-jetified-firebase-common-20.4.2-1 C:\Users\razan\.gradle\caches\transforms-3\15cffe2fa204221cb9fcc2090be47a83\transformed\jetified-firebase-common-20.4.2\res
+com.myDearmAware.DearmAware.app-lifecycle-viewmodel-2.6.1-2 C:\Users\razan\.gradle\caches\transforms-3\19b4fd86aa9f5d1d73eccfdd4f8d93ec\transformed\lifecycle-viewmodel-2.6.1\res
+com.myDearmAware.DearmAware.app-jetified-appcompat-resources-1.2.0-3 C:\Users\razan\.gradle\caches\transforms-3\29f8b536b58918a15b2877c41f316324\transformed\jetified-appcompat-resources-1.2.0\res
+com.myDearmAware.DearmAware.app-jetified-core-ktx-1.10.1-4 C:\Users\razan\.gradle\caches\transforms-3\303148eec2d1c444fed74a101886a798\transformed\jetified-core-ktx-1.10.1\res
+com.myDearmAware.DearmAware.app-appcompat-1.2.0-5 C:\Users\razan\.gradle\caches\transforms-3\459050f2188901cc3dffe57b19d7e40c\transformed\appcompat-1.2.0\res
+com.myDearmAware.DearmAware.app-jetified-play-services-base-18.0.1-6 C:\Users\razan\.gradle\caches\transforms-3\4707393c505aa8f808d01e7b201530ee\transformed\jetified-play-services-base-18.0.1\res
+com.myDearmAware.DearmAware.app-jetified-play-services-auth-20.7.0-7 C:\Users\razan\.gradle\caches\transforms-3\4bf8e6a8be2f0aedbf3e95459d742605\transformed\jetified-play-services-auth-20.7.0\res
+com.myDearmAware.DearmAware.app-jetified-lifecycle-process-2.6.1-8 C:\Users\razan\.gradle\caches\transforms-3\5653b54bb40cec7b2fc7852645ddef7b\transformed\jetified-lifecycle-process-2.6.1\res
+com.myDearmAware.DearmAware.app-jetified-annotation-experimental-1.3.0-9 C:\Users\razan\.gradle\caches\transforms-3\68a3297a4183de07408a8fa41178e716\transformed\jetified-annotation-experimental-1.3.0\res
+com.myDearmAware.DearmAware.app-jetified-profileinstaller-1.3.0-10 C:\Users\razan\.gradle\caches\transforms-3\6a0aa4c9c77de6b9350dd655bf41fe3d\transformed\jetified-profileinstaller-1.3.0\res
+com.myDearmAware.DearmAware.app-lifecycle-livedata-core-2.6.1-11 C:\Users\razan\.gradle\caches\transforms-3\8576619e91559ba0b5498848665a7c4a\transformed\lifecycle-livedata-core-2.6.1\res
+com.myDearmAware.DearmAware.app-jetified-activity-1.7.2-12 C:\Users\razan\.gradle\caches\transforms-3\89130e62e7b86ce66225415bc37d77f9\transformed\jetified-activity-1.7.2\res
+com.myDearmAware.DearmAware.app-jetified-startup-runtime-1.1.1-13 C:\Users\razan\.gradle\caches\transforms-3\93f25847b945abe4d553d0686851f222\transformed\jetified-startup-runtime-1.1.1\res
+com.myDearmAware.DearmAware.app-jetified-window-1.0.0-beta04-14 C:\Users\razan\.gradle\caches\transforms-3\9a0df28c5085f80ff99f4ae3faa2e76d\transformed\jetified-window-1.0.0-beta04\res
+com.myDearmAware.DearmAware.app-core-runtime-2.2.0-15 C:\Users\razan\.gradle\caches\transforms-3\a18a2d78c6d0a69b2759630f879efc83\transformed\core-runtime-2.2.0\res
+com.myDearmAware.DearmAware.app-jetified-exoplayer-core-2.18.7-16 C:\Users\razan\.gradle\caches\transforms-3\b836234e4e6709f9308e0f52b850ace1\transformed\jetified-exoplayer-core-2.18.7\res
+com.myDearmAware.DearmAware.app-jetified-datastore-preferences-1.0.0-17 C:\Users\razan\.gradle\caches\transforms-3\b955e53a10ba5b4e4e315ca5f650bb5e\transformed\jetified-datastore-preferences-1.0.0\res
+com.myDearmAware.DearmAware.app-jetified-datastore-1.0.0-18 C:\Users\razan\.gradle\caches\transforms-3\c5997e57bb6259d42f5d4627f851ae68\transformed\jetified-datastore-1.0.0\res
+com.myDearmAware.DearmAware.app-jetified-window-java-1.0.0-beta04-19 C:\Users\razan\.gradle\caches\transforms-3\cd4fb270888f941782fcaab897dff61b\transformed\jetified-window-java-1.0.0-beta04\res
+com.myDearmAware.DearmAware.app-browser-1.5.0-20 C:\Users\razan\.gradle\caches\transforms-3\e37ac30814088416792193044dcb64b2\transformed\browser-1.5.0\res
+com.myDearmAware.DearmAware.app-core-1.10.1-21 C:\Users\razan\.gradle\caches\transforms-3\e5adedc2d32fbe7907c590d75393a789\transformed\core-1.10.1\res
+com.myDearmAware.DearmAware.app-jetified-savedstate-1.2.1-22 C:\Users\razan\.gradle\caches\transforms-3\e8707312ccf63433a9b44f38ebc52c04\transformed\jetified-savedstate-1.2.1\res
+com.myDearmAware.DearmAware.app-jetified-play-services-basement-18.2.0-23 C:\Users\razan\.gradle\caches\transforms-3\e915ce96dd500bc24e2844b177865c9f\transformed\jetified-play-services-basement-18.2.0\res
+com.myDearmAware.DearmAware.app-lifecycle-livedata-2.6.1-24 C:\Users\razan\.gradle\caches\transforms-3\eb599610cd360d7f8626f3b3170f723f\transformed\lifecycle-livedata-2.6.1\res
+com.myDearmAware.DearmAware.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-25 C:\Users\razan\.gradle\caches\transforms-3\f63071d8450c53361e4fe53cd966f2fd\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.myDearmAware.DearmAware.app-debug-26 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\android\app\src\debug\res
+com.myDearmAware.DearmAware.app-main-27 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\android\app\src\main\res
+com.myDearmAware.DearmAware.app-google-services-28 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\app\generated\res\google-services\debug
+com.myDearmAware.DearmAware.app-pngs-29 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\app\generated\res\pngs\debug
+com.myDearmAware.DearmAware.app-resValues-30 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\app\generated\res\resValues\debug
+com.myDearmAware.DearmAware.app-rs-31 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\app\generated\res\rs\debug
+com.myDearmAware.DearmAware.app-mergeDebugResources-32 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.myDearmAware.DearmAware.app-mergeDebugResources-33 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.myDearmAware.DearmAware.app-merged_res-34 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\app\intermediates\merged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-35 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\camera_android\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-36 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\cloud_firestore\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-37 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\file_picker\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-38 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\firebase_auth\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-39 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\firebase_core\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-40 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\firebase_performance\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-41 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\firebase_storage\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-42 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-43 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\google_sign_in_android\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-44 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\image_picker_android\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-45 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\path_provider_android\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-46 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\shared_preferences_android\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-47 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\sign_in_with_apple\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-48 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\sqflite\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-49 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\url_launcher_android\intermediates\packaged_res\debug
+com.myDearmAware.DearmAware.app-packaged_res-50 C:\Users\razan\Downloads\dearm_aware (3)\dearm_aware\build\video_player_android\intermediates\packaged_res\debug

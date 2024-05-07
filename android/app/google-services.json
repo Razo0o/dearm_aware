@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692450515539",
+    "project_id": "camera-app-mp7903",
+    "storage_bucket": "camera-app-mp7903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692450515539:android:eebb5b1830f41fac9904a6",
+        "android_client_info": {
+          "package_name": "com.myDearmAware.DearmAware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIheHDtDiI8ko5OjhdZqo4EbVg3GgyYQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
