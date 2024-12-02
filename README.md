@@ -1,6 +1,6 @@
-# trycam
+# dearm_aware
 
-A new Flutter project.
+Diagnosing Skin Conditions with AI model.
 
 ## Getting Started
 
